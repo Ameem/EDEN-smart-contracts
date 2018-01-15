@@ -8,8 +8,14 @@ contract CrowdsaleController is SmartTokenController {
     address public beneficiary;
     uint numContributions;
     uint public etherRaised;
+    uint public minWei = 728586832978755;
 
     event NewContribution(uint256 value, address from, bytes txData);
+
+    modifier validateAmount {
+        require(msg.value >= minWei);
+        _;
+    }
 
     modifier validateData {
         require(msg.data.length != 0);
@@ -40,14 +46,14 @@ contract CrowdsaleController is SmartTokenController {
 
     function ()
         payable
-//        validateAmount
+        validateAmount
         validateData
     {
         handleContribution(msg.value, msg.sender, msg.data);
     }
 
     function handleContribution(uint256 _value, address _from, bytes _data) private {
-        require(beneficiary.send(msg.value));
+//        require(beneficiary.send(_value));
 
         NewContribution(_value, _from, _data);
     }
