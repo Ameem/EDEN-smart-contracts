@@ -3,7 +3,13 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "rpc": "node startRPC.js",
+    "test": "truffle test"
+  },
   "dependencies": {
-    "truffle": "^4.0.4"
+    "ethereumjs-testrpc": "^6.0.3",
+    "truffle": "^4.0.4",
+    "web3": "^1.0.0-beta.27"
   }
 }
