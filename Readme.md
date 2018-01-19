@@ -19,4 +19,5 @@ The EDN Token is designed to have true utility within the EDEN eco-system of pro
   <li>Jonathan Calmus</li>
   <li>Bogdan Sviripa</li>
   <li>Marat Urazov</li>
+  <li><a href="https://github.com/carlosagudelo/">Carlos Agudelo</a></li>
 </ul>
