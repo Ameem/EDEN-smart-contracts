@@ -12,7 +12,13 @@ The goal with EDEN and the EDN Token is to focus efforts and creative solutions 
 
 ## Smart Token Uses and Utility
 
-The EDN Token is designed to have true utility within the EDEN eco-system of products, services and companies.
+The EDN Token is designed to have true utility within the EDEN eco-system of products, services and companies. EDN Token holders have the following access:
+<ul>
+  <li>Nominate projects, ideas and solutions. Selected submissions are rewarded through EDN Tokens.</li>
+  <li>Nominate EDN contributors to add open source projects and get rewarded through EDN Tokens. Top performers are invited to events and/or to live in the City of EDEN.</li>
+  <li>Access a peer review network to validate projects. Peer reviewers get rewarded in EDN Tokens.</li>
+  <li>EDN Tokens can be used to purchase products and services from EDEN Companies. <a href="http://cityofeden.io">See all EDEN companies, products and services here.</a> </li>
+</ul>
 
 ## Contributors
 <ul>
