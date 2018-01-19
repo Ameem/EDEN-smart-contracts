@@ -12,3 +12,11 @@ The goal with EDEN and the EDN Token is to focus efforts and creative solutions 
 
 ## Smart Token Uses and Utility
 
+The EDN Token is designed to have true utility within the EDEN eco-system of products, services and companies.
+
+## Contributors
+<ul>
+  <li>Jonathan Calmus</li>
+  <li>Bogdan Sviripa</li>
+  <li>Marat Urazov</li>
+</ul>
