@@ -1,4 +1,4 @@
-## EDEN smart contracts & EDN Token
+## EDEN Smart Contracts & EDN Token
 
 EDEN or Engineering, Design & Entrepreneurship in Nature is a city of engineers with full labratory and research and development resources located in nature and a distributed support system of open source developers across the world. Contributors to projects are rewarded in EDN Tokens in addition to gaining access to a variety of benefits and access as listed below. For more information visit the <a href="http://www.cityofeden.io/">visit the website.</a>
 
@@ -10,4 +10,5 @@ Traditionally age, gender, religion, race, experience and a variety of other fac
 
 The goal with EDEN and the EDN Token is to focus efforts and creative solutions to meta problems and challenges.
 
-## Run tests
+## Smart Token Uses and Utility
+
