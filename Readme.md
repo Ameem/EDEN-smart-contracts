@@ -27,3 +27,5 @@ The EDN Token is designed to have true utility within the EDEN eco-system of pro
   <li><a href="https://github.com/urazovm">Marat Urazov</a></li>
   <li><a href="https://github.com/carlosagudelo/">Carlos Agudelo</a></li>
 </ul>
+## Want to Join the EDN Token Sale?
+<a href="http://cityofeden.io">Click here to register</a>
