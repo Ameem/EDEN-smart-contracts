@@ -4,7 +4,7 @@ EDEN or Engineering, Design & Entrepreneurship in Nature is a city of engineers 
 
 ## Overview
 
-EDEN and the EDN Token represents the first technological solution to resolve the walled garden around problem solving and focuses the chanllenge of creating effective solutions to the problems that plague our time in history. The EDN token is an ERC20 compatible token that was structured to reward problem solving and build an eco-system around problem solving influence. 
+EDEN and the EDN Token represents the first technological solution to resolve the walled garden around problem solving and focuses the challenge of creating effective solutions to the problems that plague our time in history. The EDN token is an ERC20 compatible token that was structured to reward problem solving and build an eco-system around problem solving influence. 
 
 Traditionally age, gender, religion, race, experience and a variety of other factors prevent from solutions coming into implementation and is a space reserved for scientists, engineers and certifications. Some of the greatest accomplishments in history have been from non traditional problem solvers. 
 
