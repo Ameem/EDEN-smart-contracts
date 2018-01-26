@@ -14,10 +14,11 @@ The goal with EDEN and the EDN Token is to focus efforts and creative solutions 
 
 The EDN Token is designed to have true utility within the EDEN eco-system of products, services and companies. EDN Token holders have the following access:
 <ul>
-  <li>Nominate projects, ideas and solutions. Selected submissions are rewarded through EDN Tokens.</li>
-  <li>Nominate EDN contributors to add open source projects and get rewarded through EDN Tokens. Top performers are invited to events and/or to live in the City of EDEN.</li>
-  <li>Access a peer review network to validate projects. Peer reviewers get rewarded in EDN Tokens.</li>
-  <li>EDN Tokens can be used to purchase products and services from EDEN Companies. <a href="http://cityofeden.io">See all EDEN companies, products and services here.</a> </li>
+  <li>Publish sumissions to posted technical and creative bounties on projects in Blockchain, Aerospace, Med & Bio Tech and Renewables. Technical contributions are published as open source and remain open and available for others to use at no cost. Verified contributions will be rewarded with EDN Tokens.</li>
+  <li>Submit new projects and build teams around them to colaborate and execute on projects. As you achieve more within your project you and your team level up and earn more EDN tokens.</li>
+  <li>Gain access to perform peer review on the blockchain. Validate contributions in the EDEN Distributed Network and get rewarded in EDN tokens.</li>
+  <li>Higher level EDN token holders gain higher levels of access and invitations to exclusive events, trips and short term stays to the City of EDEN and eventually perminent residency where you earn competative salaries, live for free with top amenities and services and work on high level projects with access to bleeding edge research and development facilities.</li>
+  <li>EDN Tokens can be used to purchase products and services from EDEN Companies.  <a href="http://cityofeden.io">See all EDEN companies, products and services here.</a> </li>
 </ul>
 
 ## Contributors
