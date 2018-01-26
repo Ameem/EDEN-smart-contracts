@@ -29,6 +29,6 @@ The EDN Token is designed to have true utility within the EDEN eco-system of pro
   <li><a href="https://github.com/carlosagudelo/">Carlos Agudelo</a></li>
 </ul>
 
-## Want to Join the EDN Token Sale?
+## Join EDEN and the EDN Distributed Network
 <a href="http://cityofeden.io">Click here to register</a>
 <br><a href="https://t.me/CityofEDEN">Ask us Anything on Telegram</a>
