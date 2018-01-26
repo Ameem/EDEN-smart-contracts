@@ -31,4 +31,4 @@ The EDN Token is designed to have true utility within the EDEN eco-system of pro
 
 ## Want to Join the EDN Token Sale?
 <a href="http://cityofeden.io">Click here to register</a>
-<a href="http://cityofeden.io">Ask us Anything on Telegram</a>
+<br><a href="http://cityofeden.io">Ask us Anything on Telegram</a>
